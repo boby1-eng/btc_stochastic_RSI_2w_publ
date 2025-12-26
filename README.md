@@ -1,0 +1,2 @@
+# btc_stochastic_RSI_2w_publ
+btc_stochastic_rsi_2w
